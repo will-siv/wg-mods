@@ -5,11 +5,10 @@ latest mods will always be in releases, just download that zip and put em in you
 ## current mod list
 - BiomesOPlenty
 - Cobblemon
-- Cobbleride
+- Cobblemon: Ride-On!
 - Custom Player Models
 - Fabric API
 - GlitchCore
-- JustEnoughItems
 - Player Animation Library
 - Player Animator API
 - Player Emotes
